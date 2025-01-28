@@ -68,6 +68,6 @@ Rafeqe App is a comprehensive Islamic application designed to assist users in en
 
 - Cubit as State managment
 - Clean code
-- MVVM arcthuear
+- MVVM Architecture
 
 
