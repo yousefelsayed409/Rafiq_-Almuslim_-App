@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867260458621",
+    "project_id": "rafeqe-app",
+    "storage_bucket": "rafeqe-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867260458621:android:2409b7505afe265335b314",
+        "android_client_info": {
+          "package_name": "com.example.rafeqapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hQIAyRoK0lHtuTHz6yJCQZlPYEeHqGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
