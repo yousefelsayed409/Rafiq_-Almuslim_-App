@@ -1,4 +1,5 @@
 # Rafeqe App
+Rafeqe App is a comprehensive Islamic application designed to assist users in enhancing their daily religious practices. The app features a simple and user-friendly interface with multiple functionalities that cater to the everyday needs of Muslims. Its features include prayer times, Quran recitation, Qibla direction, daily supplications, Hadith collection, Tasbeeh counter, Zakat calculator, Islamic calendar, and the beautiful names of Allah.
 
 ## Rafeqe App  mockup
 
@@ -44,23 +45,29 @@
   
 ### Packages used in the project:
 
-- [Dio](https://pub.dev/packages/dio)
-- [internet_connection_checker](https://pub.dev/packages/internet_connection_checker)
-- [equatable](https://pub.dev/packages/equatable)
-- [dartz](https://pub.dev/packages/dartz)
-- [bloc](https://pub.dev/packages/bloc)
-- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-- [flutter_localizations](https://pub.dev/packages/flutter_localization)
-- [get_it](https://pub.dev/packages/get_it)
-- [flutter_paypal_checkout](https://pub.dev/packages/flutter_paypal_checkout)
-- [url_launcher](https://pub.dev/packages/url_launcher)
-- [webview_flutter](https://pub.dev/packages/webview_flutter)
+- [flutter_screenutil]
+- [hijri]
+- [flutter_qiblah]
+- [permission_handler]
+- [shared_preferences]
+- [adhan]
+- [intl]
+- [http]
+- [flutter_localizations]
+- [share_plus]
+- [audioplayers]
+- [firebase_core]
+- [firebase_messaging]
+- [flutter_local_notifications]
+- [timezone]
+- [internet_connection_checker]
+- [quran]
 
 
 ### in the project:
 
 - Cubit as State managment
 - Clean code
-- MVVM
+- MVVM arcthuear
 
 
